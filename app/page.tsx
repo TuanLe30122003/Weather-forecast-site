@@ -30,7 +30,6 @@ const Home = () => {
         setError("City not found")
         setData({})
       }
-      e.target.value = "";
     }
   }
 
